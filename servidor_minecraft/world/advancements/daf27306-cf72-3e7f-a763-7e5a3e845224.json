@@ -307,6 +307,7 @@
       "cooked_beef": "2025-08-11 02:59:32 +0000",
       "beef": "2025-08-13 02:44:34 +0000",
       "porkchop": "2025-08-13 02:44:13 +0000",
+      "mutton": "2025-08-13 02:47:41 +0000",
       "rotten_flesh": "2025-08-11 01:46:49 +0000",
       "melon_slice": "2025-08-11 02:17:29 +0000",
       "cooked_chicken": "2025-08-11 02:45:16 +0000"
@@ -2092,6 +2093,12 @@
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
       "has_porkchop": "2025-08-13 02:43:58 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/fox": {
+    "criteria": {
+      "has_sweet_berries": "2025-08-13 02:59:43 +0000"
     },
     "done": true
   },
