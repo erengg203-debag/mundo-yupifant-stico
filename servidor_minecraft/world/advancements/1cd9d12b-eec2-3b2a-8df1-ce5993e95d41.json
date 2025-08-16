@@ -9,6 +9,7 @@
     "criteria": {
       "minecraft:taiga": "2025-08-11 03:52:01 +0000",
       "minecraft:deep_ocean": "2025-08-11 02:57:22 +0000",
+      "minecraft:cherry_grove": "2025-08-16 03:51:38 +0000",
       "minecraft:birch_forest": "2025-08-11 03:51:46 +0000",
       "minecraft:wooded_badlands": "2025-08-08 17:21:32 +0000",
       "minecraft:bamboo_jungle": "2025-08-11 02:13:17 +0000",
@@ -2188,9 +2189,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-08-16 03:51:39 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/redstone": {
     "criteria": {
       "has_redstone": "2025-08-16 02:38:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-08-16 03:42:27 +0000"
     },
     "done": true
   },
@@ -2200,9 +2213,21 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/squid": {
+    "criteria": {
+      "has_ink_sac": "2025-08-16 03:42:29 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/fox": {
     "criteria": {
       "has_sweet_berries": "2025-08-16 02:50:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-08-16 03:42:29 +0000"
     },
     "done": true
   },
@@ -2248,6 +2273,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2025-08-16 03:51:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2025-08-16 02:56:41 +0000"
@@ -2257,6 +2288,12 @@
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2025-08-16 02:38:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2025-08-16 03:51:45 +0000"
     },
     "done": true
   },

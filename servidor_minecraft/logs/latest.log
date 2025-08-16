@@ -225,3 +225,5 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [16Aug2025 03:27:56.416] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jorgelson lost connection: Disconnected
 [16Aug2025 03:27:56.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson left the game
 [16Aug2025 03:42:27.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bakhu_sa has made the advancement [Hot Stuff]
+[16Aug2025 03:51:54.913] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bakhu_sa lost connection: Disconnected
+[16Aug2025 03:51:54.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bakhu_sa left the game
