@@ -1,16 +1,16 @@
-[16Aug2025 02:21:46.971] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[16Aug2025 02:21:46.977] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.16 by Ubuntu; OS Linux arch amd64 version 6.8.0-1030-azure
-[16Aug2025 02:21:47.586] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[16Aug2025 02:21:47.686] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/mundo-yupifant-stico/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
-[16Aug2025 02:21:48.140] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/mundo-yupifant-stico/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[16Aug2025 02:21:48.142] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/mundo-yupifant-stico/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[16Aug2025 02:21:48.143] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/mundo-yupifant-stico/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[16Aug2025 02:21:48.144] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/mundo-yupifant-stico/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[16Aug2025 02:21:48.484] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 1 dependencies adding them to mods collection
-[16Aug2025 02:21:50.098] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[16Aug2025 02:21:50.109] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[16Aug2025 02:21:50.148] [main/WARN] [mixin/]: Reference map 'mimicer.refmap.json' for themimic_er.mixins.json could not be read. If this is a development environment you can ignore this message
-[16Aug2025 02:21:50.772] [main/WARN] [net.minecraft.SystemReport/]: Failed retrieving info for group hardware
+[17Aug2025 01:43:12.434] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[17Aug2025 01:43:12.439] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.16 by Ubuntu; OS Linux arch amd64 version 6.8.0-1030-azure
+[17Aug2025 01:43:12.661] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[17Aug2025 01:43:12.714] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/mundo-yupifant-stico/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
+[17Aug2025 01:43:12.919] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/mundo-yupifant-stico/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[17Aug2025 01:43:12.920] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/mundo-yupifant-stico/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[17Aug2025 01:43:12.921] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/mundo-yupifant-stico/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[17Aug2025 01:43:12.922] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/mundo-yupifant-stico/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[17Aug2025 01:43:13.038] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 1 dependencies adding them to mods collection
+[17Aug2025 01:43:14.312] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[17Aug2025 01:43:14.322] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[17Aug2025 01:43:14.354] [main/WARN] [mixin/]: Reference map 'mimicer.refmap.json' for themimic_er.mixins.json could not be read. If this is a development environment you can ignore this message
+[17Aug2025 01:43:14.730] [main/WARN] [net.minecraft.SystemReport/]: Failed retrieving info for group hardware
 java.lang.NoClassDefFoundError: com/sun/jna/Platform
 	at oshi.SystemInfo.<clinit>(SystemInfo.java:60) ~[oshi-core-6.2.2.jar%2369!/:6.2.2]
 	at net.minecraft.SystemReport.m_143564_(SystemReport.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23113!/:?]
@@ -40,190 +40,68 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:137) ~[securejarhandler-2.1.10.jar:?]
 	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
 	... 22 more
-[16Aug2025 02:21:56.218] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[16Aug2025 02:21:56.220] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[16Aug2025 02:21:57.357] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[16Aug2025 02:21:57.382] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
-[16Aug2025 02:21:57.383] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
-[16Aug2025 02:21:57.384] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
-[16Aug2025 02:21:57.385] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
-[16Aug2025 02:21:57.682] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[16Aug2025 02:21:57.682] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
-[16Aug2025 02:21:57.733] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: AHEAD Current: 9.1.39 Target: null
-[16Aug2025 02:21:58.792] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[16Aug2025 02:21:59.571] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/mundo-yupifant-stico/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23113!/assets/.mcassetsroot' uses unexpected schema
-[16Aug2025 02:21:59.571] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/mundo-yupifant-stico/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23113!/data/.mcassetsroot' uses unexpected schema
-[16Aug2025 02:22:01.296] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
-[16Aug2025 02:22:01.413] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1408 advancements
-[16Aug2025 02:22:01.914] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[16Aug2025 02:22:01.915] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[16Aug2025 02:22:01.915] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[16Aug2025 02:22:01.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[16Aug2025 02:22:02.213] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[16Aug2025 02:22:02.241] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[16Aug2025 02:22:02.350] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[16Aug2025 02:22:02.351] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[16Aug2025 02:22:02.351] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[16Aug2025 02:22:02.351] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[16Aug2025 02:22:02.369] [Thread-0/INFO] [de.cadentem.themimic_er.Mimicer/]: Server configuration has been reloaded
-[16Aug2025 02:22:02.373] [Thread-0/INFO] [de.cadentem.themimic_er.Mimicer/]: Server configuration has been reloaded
-[16Aug2025 02:22:02.410] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[16Aug2025 02:22:05.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[16Aug2025 02:22:05.780] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[16Aug2025 02:22:07.347] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[16Aug2025 02:22:08.435] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[16Aug2025 02:22:08.671] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[16Aug2025 02:22:08.710] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[16Aug2025 02:22:08.728] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[16Aug2025 02:22:08.740] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[16Aug2025 02:22:08.759] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[16Aug2025 02:22:08.795] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[16Aug2025 02:22:08.806] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[16Aug2025 02:22:08.928] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[16Aug2025 02:22:09.570] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[16Aug2025 02:22:09.834] [Netty Epoll Server IO #4/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[16Aug2025 02:22:09.925] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[16Aug2025 02:22:10.424] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
-[16Aug2025 02:22:10.849] [Netty Epoll Server IO #5/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[16Aug2025 02:22:10.924] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 89%
-[16Aug2025 02:22:11.032] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 5609 ms
-[16Aug2025 02:22:11.033] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (8.667s)! For help, type "help"
-[16Aug2025 02:22:11.057] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[16Aug2025 02:22:17.001] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jorgelson[/127.236.237.174:35685] logged in with entity id 6 at (-1548.5, -14.0, -2475.5)
-[16Aug2025 02:22:17.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson joined the game
-[16Aug2025 02:22:19.242] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2234ms or 44 ticks behind
-[16Aug2025 02:23:01.934] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bakhu_sa[/127.21.46.173:54767] logged in with entity id 356 at (-1544.7917143714913, -14.0, -2476.173788091868)
-[16Aug2025 02:23:01.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bakhu_sa joined the game
-[16Aug2025 02:24:22.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> que te falta pues puerka
-[16Aug2025 02:24:28.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> me hiciste p[erder pendejo lo que tenia
-[16Aug2025 02:24:36.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> Antorchas y todo lo demas jajaj
-[16Aug2025 02:24:40.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> ni modo ajajja
-[16Aug2025 02:24:50.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> pero como chch te va a faltar cosas
-[16Aug2025 02:26:52.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> apareció un marrano pero no hace nada que chucha
-[16Aug2025 02:27:26.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson has made the advancement [Isn't It Iron Pick]
-[16Aug2025 02:27:34.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bakhu_sa was slain by The Locust
-[16Aug2025 02:27:34.923] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for bakhu_sa with unique ID travelersbackpack.wolf_16.08.2025-02.27.34.dat
-[16Aug2025 02:27:34.925] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -1570 Y: -1 Z: -2592
-[16Aug2025 02:27:44.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> jsjsjs insta kill jaja
-[16Aug2025 02:28:27.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson has made the advancement [Not Today, Thank You]
-[16Aug2025 02:30:54.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> donde esta
-[16Aug2025 02:31:10.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> abajo del todo casi
-[16Aug2025 02:32:12.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> tamadre mejor voy a buscar más madera
-[16Aug2025 02:32:44.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson has made the advancement [Suit Up]
-[16Aug2025 02:36:10.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson was boiled
-[16Aug2025 02:36:10.225] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Jorgelson with unique ID travelersbackpack.standard_16.08.2025-02.36.10.dat
-[16Aug2025 02:36:10.226] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -1486 Y: 70 Z: -2588
-[16Aug2025 02:36:15.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> QUE HSSHJ
-[16Aug2025 02:36:17.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> vaya
-[16Aug2025 02:39:33.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> TRAE CARBON AJJA SE ACABO
-[16Aug2025 02:40:30.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> aaaaa cierto puedes dormir con la mochila osea tiene un sleeping bag por si aca
-[16Aug2025 02:40:40.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> EXPLICATE SJJS
-[16Aug2025 02:40:43.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> COMO HAGO ESO AJJA
-[16Aug2025 02:41:15.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> a la B sale el inventario de la mochila, entonces ahí le dasw a los tres puntos y le das al de dormir ahí le lees
-[16Aug2025 02:41:17.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> ay mrd
-[16Aug2025 02:41:18.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> LA GRAN PT
-[16Aug2025 02:43:22.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> SACA FORTUNA ESTAMOS DESPERDICIANDO MUCHO OR
-[16Aug2025 02:43:49.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> si encuentras arcilla sale más rápido
-[16Aug2025 02:44:10.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> y no ess joda
-[16Aug2025 02:44:14.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> el bioma de arcilla
-[16Aug2025 02:45:15.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> VA VA ME VOY EN BUSCA DE ARCILLA
-[16Aug2025 02:49:41.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> DUERME OE
-[16Aug2025 02:50:03.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bakhu_sa was boiled
-[16Aug2025 02:50:03.273] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for bakhu_sa with unique ID travelersbackpack.wolf_16.08.2025-02.50.03.dat
-[16Aug2025 02:50:03.273] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -1548 Y: -14 Z: -2479
-[16Aug2025 02:52:13.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> VAMOS DE EXPLORACION CONFILMA
-[16Aug2025 02:52:27.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> a ella la exploran
-[16Aug2025 02:52:32.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> a donde quieres largarte
-[16Aug2025 02:53:29.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> VOY A DEJAR EL ORO Y ME VOY DE EXPLO
-[16Aug2025 02:53:39.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> pero que quieres encont4rar marrano
-[16Aug2025 02:53:58.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> DONDE VOS JSJS
-[16Aug2025 02:54:35.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> tenog carbon
-[16Aug2025 02:54:46.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> ay chcucha solo 8 salieron
-[16Aug2025 02:54:48.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> ni modo
-[16Aug2025 02:55:01.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> QUIERES EXPLORAR LA MINA A VER QUE SACAMMOS??
-[16Aug2025 02:55:17.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> para eso ando sacando pero con 8 carbon no alcanza antorchas
-[16Aug2025 02:57:01.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> bueno tengo 60 antorchas
-[16Aug2025 02:57:05.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> haber hasta donde se explora
-[16Aug2025 02:57:33.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> TENGO 60 DE ARCILLA SJJS
-[16Aug2025 02:58:10.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> non
-[16Aug2025 02:58:15.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> ya busco ese bioma
-[16Aug2025 02:58:19.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> sale muuuucho mas
-[16Aug2025 02:58:31.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> OE HAY OTRA ALDEA A LADO JSJS
-[16Aug2025 02:58:36.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> si la vi
-[16Aug2025 02:59:04.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> YENDO
-[16Aug2025 02:59:46.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> spawn de esqueletos
-[16Aug2025 03:00:34.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> puedo hacer granja con esto
-[16Aug2025 03:00:40.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> pero necesito sould sand
-[16Aug2025 03:00:45.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> ONTAS
-[16Aug2025 03:00:53.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> no se deja salgo ajsas
-[16Aug2025 03:01:15.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> te veo
-[16Aug2025 03:01:28.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> delante un poco a tu izaeuirda
-[16Aug2025 03:01:30.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> atras
-[16Aug2025 03:02:19.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> jajaj
-[16Aug2025 03:02:31.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> DEJA PONGO FINALIZADO Y VAMOS A LA MINA
-[16Aug2025 03:03:46.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> VAMO A LA MINA
-[16Aug2025 03:03:51.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> corre chch
-[16Aug2025 03:03:53.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bakhu_sa was boiled
-[16Aug2025 03:03:53.072] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for bakhu_sa with unique ID travelersbackpack.wolf_16.08.2025-03.03.53.dat
-[16Aug2025 03:03:53.072] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -1620 Y: 3 Z: -2518
-[16Aug2025 03:03:57.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> te avise asjdfjasd
-[16Aug2025 03:04:37.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> dsonde estaba jsjs\
-[16Aug2025 03:04:45.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> ya salgo
-[16Aug2025 03:04:56.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> hay full carbon por aqui
-[16Aug2025 03:05:34.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> aqui
-[16Aug2025 03:06:41.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> ontas
-[16Aug2025 03:07:44.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> vamo sjss
-[16Aug2025 03:08:04.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> ven
-[16Aug2025 03:08:23.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> ontas
-[16Aug2025 03:08:55.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> hay un diakant
-[16Aug2025 03:09:02.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> diamante
-[16Aug2025 03:15:48.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> vuelve jaja
-[16Aug2025 03:15:51.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> me perdi
-[16Aug2025 03:16:29.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> está ahí
-[16Aug2025 03:16:37.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> que cosa
-[16Aug2025 03:16:38.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> dejalo
-[16Aug2025 03:16:50.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> habver ya no tengo antorchas jasj
-[16Aug2025 03:17:04.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> ten
-[16Aug2025 03:17:06.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bakhu_sa was boiled
-[16Aug2025 03:17:06.020] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for bakhu_sa with unique ID travelersbackpack.wolf_16.08.2025-03.17.06.dat
-[16Aug2025 03:17:06.021] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -1495 Y: -27 Z: -2429
-[16Aug2025 03:17:11.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> mmhv
-[16Aug2025 03:17:12.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> uy
-[16Aug2025 03:18:59.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> aca hay mas cosas
-[16Aug2025 03:19:24.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> toma
-[16Aug2025 03:21:12.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> diamante
-[16Aug2025 03:21:29.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> solo marcalo a ver si sacamos esa csao
-[16Aug2025 03:21:43.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bakhu_sa was boiled
-[16Aug2025 03:21:43.670] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for bakhu_sa with unique ID travelersbackpack.wolf_16.08.2025-03.21.43.dat
-[16Aug2025 03:21:43.671] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -1482 Y: -34 Z: -2450
-[16Aug2025 03:21:50.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> jsjaja que webada ajsdfjas
-[16Aug2025 03:21:53.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> la ptm oe que tienen conmifo jajaj
-[16Aug2025 03:22:44.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> arco tienes
-[16Aug2025 03:22:46.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> ?
-[16Aug2025 03:23:12.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> nop
-[16Aug2025 03:23:14.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> antorchas? sjdajf
-[16Aug2025 03:23:29.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> se me acabaron jss
-[16Aug2025 03:23:44.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> y ahor asjaj
-[16Aug2025 03:23:50.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> vamo noma
-[16Aug2025 03:24:22.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> corre
-[16Aug2025 03:25:02.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> casi me kchan
-[16Aug2025 03:25:50.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson was boiled
-[16Aug2025 03:25:50.470] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Jorgelson with unique ID travelersbackpack.iron_16.08.2025-03.25.50.dat
-[16Aug2025 03:25:50.471] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -1542 Y: -14 Z: -2476
-[16Aug2025 03:25:58.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> ajajjjajajajjajjajajajajajaja
-[16Aug2025 03:26:54.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> tamadre
-[16Aug2025 03:27:02.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> bueno ya tengo localizado el spawn de esqueletos
-[16Aug2025 03:27:12.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> no hay arcilla pero a palos saco encantmientos
-[16Aug2025 03:27:17.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> me las saco
-[16Aug2025 03:27:22.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> ten arcxilla
-[16Aug2025 03:27:22.917] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jorgelson lost connection: Disconnected
-[16Aug2025 03:27:22.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson left the game
-[16Aug2025 03:27:33.081] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jorgelson[/127.236.237.174:58989] logged in with entity id 83848 at (-1538.9255555781488, -13.0, -2477.3690668741415)
-[16Aug2025 03:27:33.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson joined the game
-[16Aug2025 03:27:39.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> haber
-[16Aug2025 03:27:42.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> en el cofre
-[16Aug2025 03:27:56.416] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jorgelson lost connection: Disconnected
-[16Aug2025 03:27:56.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson left the game
-[16Aug2025 03:42:27.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bakhu_sa has made the advancement [Hot Stuff]
-[16Aug2025 03:51:54.913] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bakhu_sa lost connection: Disconnected
-[16Aug2025 03:51:54.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bakhu_sa left the game
+[17Aug2025 01:43:20.051] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[17Aug2025 01:43:20.053] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[17Aug2025 01:43:20.851] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[17Aug2025 01:43:20.875] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
+[17Aug2025 01:43:20.876] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
+[17Aug2025 01:43:20.877] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
+[17Aug2025 01:43:20.878] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
+[17Aug2025 01:43:21.065] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[17Aug2025 01:43:21.065] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[17Aug2025 01:43:21.104] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: AHEAD Current: 9.1.39 Target: null
+[17Aug2025 01:43:21.970] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[17Aug2025 01:43:22.572] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/mundo-yupifant-stico/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23113!/assets/.mcassetsroot' uses unexpected schema
+[17Aug2025 01:43:22.572] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/mundo-yupifant-stico/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23113!/data/.mcassetsroot' uses unexpected schema
+[17Aug2025 01:43:24.343] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
+[17Aug2025 01:43:24.470] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1408 advancements
+[17Aug2025 01:43:24.994] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[17Aug2025 01:43:24.995] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[17Aug2025 01:43:24.995] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[17Aug2025 01:43:24.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[17Aug2025 01:43:25.130] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[17Aug2025 01:43:25.156] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[17Aug2025 01:43:25.244] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17Aug2025 01:43:25.245] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[17Aug2025 01:43:25.245] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17Aug2025 01:43:25.246] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[17Aug2025 01:43:25.268] [Thread-0/INFO] [de.cadentem.themimic_er.Mimicer/]: Server configuration has been reloaded
+[17Aug2025 01:43:25.270] [Thread-0/INFO] [de.cadentem.themimic_er.Mimicer/]: Server configuration has been reloaded
+[17Aug2025 01:43:25.316] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[17Aug2025 01:43:28.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[17Aug2025 01:43:33.390] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17Aug2025 01:43:33.450] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17Aug2025 01:43:33.467] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17Aug2025 01:43:33.492] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17Aug2025 01:43:33.517] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17Aug2025 01:43:33.536] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17Aug2025 01:43:33.537] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17Aug2025 01:43:33.537] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17Aug2025 01:43:33.538] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17Aug2025 01:43:33.539] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17Aug2025 01:43:33.540] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17Aug2025 01:43:33.710] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17Aug2025 01:43:34.210] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 42%
+[17Aug2025 01:43:34.683] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 6474 ms
+[17Aug2025 01:43:34.684] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (9.421s)! For help, type "help"
+[17Aug2025 01:43:34.703] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[17Aug2025 01:45:51.610] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jorgelson[/127.236.237.174:60607] logged in with entity id 6 at (-1541.8830748103137, -14.0, -2475.3616456270934)
+[17Aug2025 01:45:51.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson joined the game
+[17Aug2025 01:46:00.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Problem when finding a nearby player, If you see this please report it to dragonzgikil!
+[17Aug2025 01:48:41.080] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bakhu_sa[/127.130.169.114:51331] logged in with entity id 509 at (-1386.300000011921, 85.0, -1858.040324209358)
+[17Aug2025 01:48:41.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bakhu_sa joined the game
+[17Aug2025 01:49:12.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> duerme chch duerme ando en la interperie
+[17Aug2025 01:50:16.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> vavava
+[17Aug2025 01:50:31.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> bueno voy a sacar cosas con los aldeanos
+[17Aug2025 01:52:51.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> pasas coordenadas jsjs llevo arci;;a
+[17Aug2025 01:54:42.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> -1507.48 65.00 -2534.70
+[17Aug2025 01:54:43.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> negro coordenadas chch
+[17Aug2025 01:54:51.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> es que me querían kchar
+[17Aug2025 01:57:26.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> ten
+[17Aug2025 02:00:13.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> duerme que no quieren tragar los aldeanos
+[17Aug2025 02:01:28.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> tamadre se llevo la cama
+[17Aug2025 02:01:51.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bakhu_sa was boiled
+[17Aug2025 02:01:51.866] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for bakhu_sa with unique ID travelersbackpack.wolf_17.08.2025-02.01.51.dat
+[17Aug2025 02:01:51.868] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -1471 Y: 65 Z: -2576
+[17Aug2025 02:02:00.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> jasjdjasj a vos te va kchando
+[17Aug2025 02:02:34.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> tu mochila quedo afuera
