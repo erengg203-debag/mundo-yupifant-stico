@@ -182,6 +182,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-08-11 02:06:43 +0000",
       "minecraft:spider": "2025-08-12 03:12:04 +0000",
+      "minecraft:slime": "2025-08-17 03:16:43 +0000",
       "minecraft:zombie": "2025-08-11 02:40:06 +0000"
     },
     "done": false
@@ -2375,9 +2376,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-08-17 03:16:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-08-17 03:19:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-08-17 03:16:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2025-08-17 03:00:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-08-17 03:16:53 +0000"
     },
     "done": true
   },
