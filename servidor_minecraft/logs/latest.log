@@ -90,3 +90,6 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [18Aug2025 01:26:04.771] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2122ms or 42 ticks behind
 [18Aug2025 02:34:33.904] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jorgelson lost connection: Disconnected
 [18Aug2025 02:34:33.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson left the game
+[18Aug2025 02:45:25.467] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jorgelson[/127.236.237.174:54841] logged in with entity id 29482 at (-1491.920492127181, 62.9375, -2639.3908956788473)
+[18Aug2025 02:45:25.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson joined the game
+[18Aug2025 02:45:39.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> ajsjdflksajdf
