@@ -1314,3 +1314,7 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [18Aug2025 01:26:02.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson joined the game
 [18Aug2025 01:26:04.771] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2122ms or 42 ticks behind
 [18Aug2025 01:26:05.376] [Server thread/DEBUG] [io.netty.util.internal.ThreadLocalRandom/]: -Dio.netty.initialSeedUniquifier: 0x75a660317ffdbe68
+[18Aug2025 01:30:43.708] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Aug2025 01:30:43.717] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Aug2025 01:35:43.681] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Aug2025 01:35:43.688] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
