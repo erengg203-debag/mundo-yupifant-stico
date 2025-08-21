@@ -121,3 +121,8 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [21Aug2025 01:48:11.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> carbon dame
 [21Aug2025 01:48:18.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> estás en mina cerdo ahí debe haber
 [21Aug2025 01:49:19.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> o si no si tienes para hacer el portal al nether y buscar soulsand para la granja de esqueletos
+[21Aug2025 01:59:10.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> duerne
+[21Aug2025 01:59:24.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> le pegué a un golem sin querer ajsdja
+[21Aug2025 02:04:39.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> ten oe
+[21Aug2025 02:04:39.533] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jorgelson lost connection: Disconnected
+[21Aug2025 02:04:39.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson left the game
