@@ -182,7 +182,9 @@
     "criteria": {
       "minecraft:skeleton": "2025-08-11 02:06:43 +0000",
       "minecraft:spider": "2025-08-12 03:12:04 +0000",
+      "minecraft:creeper": "2025-08-21 01:50:17 +0000",
       "minecraft:slime": "2025-08-17 03:16:43 +0000",
+      "minecraft:witch": "2025-08-21 01:37:43 +0000",
       "minecraft:zombie": "2025-08-11 02:40:06 +0000"
     },
     "done": false
@@ -2410,6 +2412,12 @@
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-08-17 03:19:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-08-21 01:37:08 +0000"
     },
     "done": true
   },
