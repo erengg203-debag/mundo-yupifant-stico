@@ -106,3 +106,22 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [21Aug2025 03:05:44.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> wiiiii
 [21Aug2025 03:09:34.065] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jorgelson lost connection: Disconnected
 [21Aug2025 03:09:34.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson left the game
+[21Aug2025 03:11:59.022] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@844a6cd[id=<null>,name=Jorgelson,properties={},legacy=false] (/127.236.237.174:57469) lost connection: Disconnected
+[21Aug2025 03:12:05.530] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jorgelson[/127.236.237.174:59009] logged in with entity id 4851 at (-1473.8168339516453, 65.5, -2580.1728252014104)
+[21Aug2025 03:12:05.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson joined the game
+[21Aug2025 03:13:20.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> que te faltaba?
+[21Aug2025 03:13:24.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> ah si irrompibilidad
+[21Aug2025 03:13:36.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> toma
+[21Aug2025 03:13:55.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> en el yunke perunao
+[21Aug2025 03:16:50.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson died
+[21Aug2025 03:17:00.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> mi cama??????
+[21Aug2025 03:17:03.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> ay no ajsdfasdfajsdjfa
+[21Aug2025 03:17:11.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> SE LA LLEVO JJAJAJA
+[21Aug2025 03:17:40.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> ONTAS??
+[21Aug2025 03:17:46.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> en el spawn pues peruanidad
+[21Aug2025 03:17:53.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> como se va a llevar mi cama sjdfjas
+[21Aug2025 03:18:13.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> bueno manda cords por whatsapp
+[21Aug2025 03:18:29.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> voy a cerrar turno oe confirma que actividad le mando a nelson
+[21Aug2025 03:18:32.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> piloso
+[21Aug2025 03:18:33.819] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jorgelson lost connection: Disconnected
+[21Aug2025 03:18:33.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson left the game
