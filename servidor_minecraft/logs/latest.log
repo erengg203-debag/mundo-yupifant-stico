@@ -99,3 +99,4 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [21Aug2025 01:15:09.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> ontas
 [21Aug2025 01:15:27.119] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jorgelson[/127.236.237.174:40285] logged in with entity id 520 at (-1469.468234098804, 66.0625, -2580.764435683359)
 [21Aug2025 01:15:27.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson joined the game
+[21Aug2025 01:23:19.789] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1473, y=67, z=-2559} BlockPos{x=-1472, y=67, z=-2556}

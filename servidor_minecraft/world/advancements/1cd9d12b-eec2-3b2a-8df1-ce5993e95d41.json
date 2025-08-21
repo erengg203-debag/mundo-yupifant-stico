@@ -2376,15 +2376,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/sticky_piston": {
+  "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
-      "has_slime_ball": "2025-08-17 03:16:53 +0000"
+      "has_rail": "2025-08-17 03:00:39 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/dispenser": {
+  "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
-      "has_bow": "2025-08-17 03:19:59 +0000"
+      "has_rail": "2025-08-17 03:00:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-08-17 03:16:53 +0000"
     },
     "done": true
   },
@@ -2394,21 +2400,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/activator_rail": {
-    "criteria": {
-      "has_rail": "2025-08-17 03:00:39 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2025-08-17 03:16:53 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/powered_rail": {
+  "minecraft:recipes/redstone/dispenser": {
     "criteria": {
-      "has_rail": "2025-08-17 03:00:39 +0000"
+      "has_bow": "2025-08-17 03:19:59 +0000"
     },
     "done": true
   },
