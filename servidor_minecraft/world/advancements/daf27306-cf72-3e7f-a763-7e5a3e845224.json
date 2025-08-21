@@ -2640,5 +2640,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-08-21 02:56:20 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
