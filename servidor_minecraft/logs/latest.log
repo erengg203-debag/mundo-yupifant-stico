@@ -146,3 +146,17 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [22Aug2025 03:56:35.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> pero eso queda para el siguiente episodio hasta la procsimaaa
 [22Aug2025 03:56:52.447] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jorgelson lost connection: Disconnected
 [22Aug2025 03:56:52.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson left the game
+[22Aug2025 03:57:02.501] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bakhu_sa lost connection: Disconnected
+[22Aug2025 03:57:02.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bakhu_sa left the game
+[22Aug2025 04:04:25.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[22Aug2025 04:04:25.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[22Aug2025 04:04:25.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[22Aug2025 04:04:25.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22Aug2025 04:04:25.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/doctor_nowhere_mod:parallel_universe
+[22Aug2025 04:04:25.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22Aug2025 04:04:25.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22Aug2025 04:04:25.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22Aug2025 04:04:25.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (parallel_universe): All chunks are saved
+[22Aug2025 04:04:25.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22Aug2025 04:04:25.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22Aug2025 04:04:25.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved

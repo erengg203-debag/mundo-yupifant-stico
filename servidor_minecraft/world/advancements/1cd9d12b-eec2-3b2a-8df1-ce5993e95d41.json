@@ -2524,5 +2524,11 @@
     },
     "done": true
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "melon_stem": "2025-08-22 03:56:05 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
