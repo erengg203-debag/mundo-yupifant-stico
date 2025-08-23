@@ -7,6 +7,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-08-23 01:11:44 +0000",
       "minecraft:taiga": "2025-08-11 03:52:01 +0000",
       "minecraft:deep_ocean": "2025-08-11 02:57:22 +0000",
       "minecraft:cherry_grove": "2025-08-16 03:51:38 +0000",
@@ -20,6 +21,7 @@
       "minecraft:stony_shore": "2025-08-11 02:43:18 +0000",
       "minecraft:dripstone_caves": "2025-08-21 02:28:01 +0000",
       "minecraft:swamp": "2025-08-11 03:49:14 +0000",
+      "minecraft:grove": "2025-08-23 01:04:49 +0000",
       "minecraft:cold_ocean": "2025-08-11 02:57:55 +0000",
       "minecraft:forest": "2025-08-11 02:45:01 +0000",
       "minecraft:lush_caves": "2025-08-08 17:24:29 +0000",
@@ -2529,6 +2531,24 @@
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "melon_stem": "2025-08-22 03:56:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-08-23 01:04:56 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/snow": {
+    "criteria": {
+      "has_snowball": "2025-08-23 01:04:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-08-23 01:04:56 +0000"
     },
     "done": true
   },
