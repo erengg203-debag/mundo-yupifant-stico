@@ -3005,3 +3005,230 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [23Aug2025 02:24:02.623] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1469.56, y=69.88, z=-2582.12]]
 [23Aug2025 02:24:03.273] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1469.56, y=69.88, z=-2582.12]]
 [23Aug2025 02:24:03.773] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1469.56, y=69.88, z=-2582.12]]
+[23Aug2025 02:24:05.373] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1469.56, y=69.88, z=-2582.12]]
+[23Aug2025 02:24:05.673] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1469.56, y=69.88, z=-2582.12]]
+[23Aug2025 02:24:06.973] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1469.56, y=69.88, z=-2582.12]]
+[23Aug2025 02:24:07.803] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Aug2025 02:24:07.807] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Aug2025 02:24:08.573] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1469.56, y=69.88, z=-2582.12]]
+[23Aug2025 02:24:09.323] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1469.56, y=69.88, z=-2582.12]]
+[23Aug2025 02:24:09.523] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1469.56, y=69.88, z=-2582.12]]
+[23Aug2025 02:24:09.823] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1469.56, y=69.88, z=-2582.12]]
+[23Aug2025 02:24:10.223] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1469.56, y=69.88, z=-2582.12]]
+[23Aug2025 02:24:11.473] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1469.56, y=69.88, z=-2582.12]]
+[23Aug2025 02:24:13.472] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1469.56, y=69.88, z=-2582.12]]
+[23Aug2025 02:24:13.572] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1469.56, y=69.88, z=-2582.12]]
+[23Aug2025 02:24:14.423] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1469.56, y=69.88, z=-2582.12]]
+[23Aug2025 02:24:14.623] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1469.56, y=69.88, z=-2582.12]]
+[23Aug2025 02:24:15.373] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1469.56, y=69.88, z=-2582.12]]
+[23Aug2025 02:24:16.823] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1469.56, y=69.88, z=-2582.12]]
+[23Aug2025 02:24:17.172] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1469.56, y=69.88, z=-2582.12]]
+[23Aug2025 02:24:17.623] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1469.56, y=69.88, z=-2582.12]]
+[23Aug2025 02:24:17.822] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1469.56, y=69.88, z=-2582.12]]
+[23Aug2025 02:24:19.723] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1469.56, y=69.88, z=-2582.12]]
+[23Aug2025 02:24:20.122] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1469.56, y=69.88, z=-2582.12]]
+[23Aug2025 02:24:20.323] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1469.56, y=69.88, z=-2582.12]]
+[23Aug2025 02:24:21.473] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1469.56, y=69.88, z=-2582.12]]
+[23Aug2025 02:24:24.723] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1469.56, y=69.88, z=-2582.12]]
+[23Aug2025 02:24:24.973] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1469.56, y=69.88, z=-2582.12]]
+[23Aug2025 02:24:25.622] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1469.56, y=69.88, z=-2582.12]]
+[23Aug2025 02:24:27.523] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1469.56, y=69.88, z=-2582.12]]
+[23Aug2025 02:24:27.623] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1469.56, y=69.88, z=-2582.12]]
+[23Aug2025 02:24:27.673] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1469.56, y=69.88, z=-2582.12]]
+[23Aug2025 02:24:27.973] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1469.56, y=69.88, z=-2582.12]]
+[23Aug2025 02:24:28.073] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1469.56, y=69.88, z=-2582.12]]
+[23Aug2025 02:24:28.623] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1469.56, y=69.88, z=-2582.12]]
+[23Aug2025 02:24:29.023] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1469.56, y=69.88, z=-2582.12]]
+[23Aug2025 02:24:29.372] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1469.56, y=69.88, z=-2582.12]]
+[23Aug2025 02:24:34.773] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1469.56, y=69.88, z=-2582.12]]
+[23Aug2025 02:24:38.023] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1469.56, y=69.88, z=-2582.12]]
+[23Aug2025 02:24:40.773] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1469.56, y=69.88, z=-2582.12]]
+[23Aug2025 02:24:42.772] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1469.56, y=69.88, z=-2582.12]]
+[23Aug2025 02:24:43.022] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1469.56, y=69.88, z=-2582.12]]
+[23Aug2025 02:24:43.372] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1469.56, y=69.88, z=-2582.12]]
+[23Aug2025 02:24:46.773] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1469.56, y=69.88, z=-2582.12]]
+[23Aug2025 02:24:46.973] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1469.56, y=69.88, z=-2582.12]]
+[23Aug2025 02:24:47.223] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1469.56, y=69.88, z=-2582.12]]
+[23Aug2025 02:24:47.423] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1469.56, y=69.88, z=-2582.12]]
+[23Aug2025 02:24:47.523] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1469.56, y=69.88, z=-2582.12]]
+[23Aug2025 02:24:47.623] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1469.56, y=69.88, z=-2582.12]]
+[23Aug2025 02:24:47.723] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1469.56, y=69.88, z=-2582.12]]
+[23Aug2025 02:24:48.572] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1469.56, y=69.88, z=-2582.12]]
+[23Aug2025 02:24:48.673] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1469.56, y=69.88, z=-2582.12]]
+[23Aug2025 02:24:49.423] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1469.56, y=69.88, z=-2582.12]]
+[23Aug2025 02:24:51.373] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1469.76, y=69.88, z=-2581.52]]
+[23Aug2025 02:24:51.523] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1469.76, y=69.88, z=-2581.52]]
+[23Aug2025 02:24:51.973] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1469.76, y=69.88, z=-2581.52]]
+[23Aug2025 02:24:52.273] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1469.57, y=69.88, z=-2581.88]]
+[23Aug2025 02:24:53.923] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1468.72, y=66.06, z=-2581.55]]
+[23Aug2025 02:24:55.323] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1473.91, y=66.00, z=-2580.30]]
+[23Aug2025 02:24:55.872] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1474.13, y=65.50, z=-2580.30]]
+[23Aug2025 02:24:57.473] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1473.24, y=66.25, z=-2587.93]]
+[23Aug2025 02:25:00.273] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1475.04, y=67.00, z=-2596.87]]
+[23Aug2025 02:25:00.722] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1476.09, y=68.00, z=-2598.21]]
+[23Aug2025 02:25:01.323] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1476.31, y=68.00, z=-2598.47]]
+[23Aug2025 02:25:01.572] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1476.31, y=68.00, z=-2598.47]]
+[23Aug2025 02:25:01.823] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1476.31, y=68.00, z=-2598.47]]
+[23Aug2025 02:25:03.123] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1476.31, y=68.00, z=-2598.47]]
+[23Aug2025 02:25:03.572] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1476.30, y=68.00, z=-2598.32]]
+[23Aug2025 02:25:20.722] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1469.99, y=69.88, z=-2581.42]]
+[23Aug2025 02:25:21.173] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1469.93, y=69.88, z=-2581.37]]
+[23Aug2025 02:25:21.823] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1469.93, y=69.88, z=-2581.37]]
+[23Aug2025 02:25:22.423] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1469.56, y=69.88, z=-2581.17]]
+[23Aug2025 02:25:23.023] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1469.56, y=69.88, z=-2581.17]]
+[23Aug2025 02:25:23.273] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1469.56, y=69.88, z=-2581.17]]
+[23Aug2025 02:25:24.123] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1469.56, y=69.88, z=-2581.17]]
+[23Aug2025 02:25:24.373] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1469.56, y=69.88, z=-2581.17]]
+[23Aug2025 02:25:25.973] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1469.56, y=69.88, z=-2581.17]]
+[23Aug2025 02:25:26.073] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1469.56, y=69.88, z=-2581.17]]
+[23Aug2025 02:25:26.273] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1469.56, y=69.88, z=-2581.17]]
+[23Aug2025 02:25:26.423] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1469.56, y=69.88, z=-2581.17]]
+[23Aug2025 02:25:28.973] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1469.56, y=69.88, z=-2581.17]]
+[23Aug2025 02:25:31.973] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1469.56, y=69.88, z=-2581.17]]
+[23Aug2025 02:25:32.172] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1469.56, y=69.88, z=-2581.17]]
+[23Aug2025 02:25:34.473] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1469.56, y=69.88, z=-2581.17]]
+[23Aug2025 02:25:36.723] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1469.56, y=69.88, z=-2581.17]]
+[23Aug2025 02:25:42.223] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1469.56, y=69.88, z=-2581.17]]
+[23Aug2025 02:25:43.422] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1469.56, y=69.88, z=-2581.17]]
+[23Aug2025 02:25:43.773] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1469.56, y=69.88, z=-2581.17]]
+[23Aug2025 02:25:44.373] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1469.56, y=69.88, z=-2581.17]]
+[23Aug2025 02:25:44.673] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1469.56, y=69.88, z=-2581.17]]
+[23Aug2025 02:25:47.823] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1469.56, y=69.88, z=-2581.17]]
+[23Aug2025 02:25:47.923] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1469.56, y=69.88, z=-2581.17]]
+[23Aug2025 02:25:49.223] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1469.56, y=69.88, z=-2581.17]]
+[23Aug2025 02:25:50.473] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1469.56, y=69.88, z=-2581.17]]
+[23Aug2025 02:25:51.923] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1469.56, y=69.88, z=-2581.17]]
+[23Aug2025 02:25:52.923] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1469.56, y=69.88, z=-2581.17]]
+[23Aug2025 02:25:53.673] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1469.56, y=69.88, z=-2581.17]]
+[23Aug2025 02:25:53.723] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1469.56, y=69.88, z=-2581.17]]
+[23Aug2025 02:25:55.373] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1469.56, y=69.88, z=-2581.17]]
+[23Aug2025 02:25:56.623] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1469.56, y=69.88, z=-2581.17]]
+[23Aug2025 02:25:57.173] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1469.56, y=69.88, z=-2581.17]]
+[23Aug2025 02:26:00.073] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1469.56, y=69.88, z=-2581.17]]
+[23Aug2025 02:26:00.972] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1469.56, y=69.88, z=-2581.17]]
+[23Aug2025 02:26:01.123] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1469.56, y=69.88, z=-2581.17]]
+[23Aug2025 02:26:01.873] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1469.56, y=69.88, z=-2581.17]]
+[23Aug2025 02:26:01.923] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1469.56, y=69.88, z=-2581.17]]
+[23Aug2025 02:26:03.373] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1469.56, y=69.88, z=-2581.17]]
+[23Aug2025 02:26:03.473] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1469.56, y=69.88, z=-2581.17]]
+[23Aug2025 02:26:04.523] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1469.56, y=69.88, z=-2581.17]]
+[23Aug2025 02:26:06.523] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1469.56, y=69.88, z=-2581.17]]
+[23Aug2025 02:26:07.223] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1469.56, y=69.88, z=-2581.17]]
+[23Aug2025 02:26:08.323] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1469.56, y=69.88, z=-2581.17]]
+[23Aug2025 02:26:08.923] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1469.56, y=69.88, z=-2581.17]]
+[23Aug2025 02:26:08.973] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1469.56, y=69.88, z=-2581.17]]
+[23Aug2025 02:26:09.972] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1469.56, y=69.88, z=-2581.17]]
+[23Aug2025 02:26:11.623] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1469.56, y=69.88, z=-2581.17]]
+[23Aug2025 02:26:12.923] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1469.56, y=69.88, z=-2581.17]]
+[23Aug2025 02:26:13.022] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1469.56, y=69.88, z=-2581.17]]
+[23Aug2025 02:26:13.073] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1469.56, y=69.88, z=-2581.17]]
+[23Aug2025 02:26:15.622] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1469.56, y=69.88, z=-2581.17]]
+[23Aug2025 02:26:17.373] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1467.49, y=67.77, z=-2581.62]]
+[23Aug2025 02:26:55.423] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1473.04, y=66.00, z=-2580.51]]
+[23Aug2025 02:27:00.123] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1474.66, y=67.75, z=-2597.70]]
+[23Aug2025 02:27:01.723] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1478.75, y=71.10, z=-2599.68]]
+[23Aug2025 02:27:04.423] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1480.68, y=69.94, z=-2598.15]]
+[23Aug2025 02:27:04.523] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1480.68, y=69.94, z=-2598.15]]
+[23Aug2025 02:27:04.973] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1480.68, y=69.94, z=-2598.15]]
+[23Aug2025 02:27:05.723] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1480.68, y=69.94, z=-2598.15]]
+[23Aug2025 02:27:06.773] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1480.68, y=69.94, z=-2598.15]]
+[23Aug2025 02:27:07.423] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1480.68, y=69.94, z=-2598.15]]
+[23Aug2025 02:27:08.923] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1480.68, y=69.94, z=-2598.15]]
+[23Aug2025 02:27:09.272] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1480.68, y=69.94, z=-2598.15]]
+[23Aug2025 02:27:09.773] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1480.68, y=69.94, z=-2598.15]]
+[23Aug2025 02:27:10.773] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1480.68, y=69.94, z=-2598.15]]
+[23Aug2025 02:27:12.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /advancement (grant|revoke)
+[23Aug2025 02:27:12.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /attribute <target> <attribute> (get|base|modifier)
+[23Aug2025 02:27:12.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /execute (run|if|unless|as|at|store|positioned|rotated|facing|align|anchored|in|summon|on)
+[23Aug2025 02:27:12.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /bossbar (add|remove|list|set|get)
+[23Aug2025 02:27:12.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /clear [<targets>]
+[23Aug2025 02:27:12.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /clone (<begin>|from)
+[23Aug2025 02:27:12.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /damage <target> <amount> [<damageType>]
+[23Aug2025 02:27:12.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /data (merge|get|remove|modify)
+[23Aug2025 02:27:12.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /datapack (enable|disable|list)
+[23Aug2025 02:27:12.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /debug (start|stop|function)
+[23Aug2025 02:27:12.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /defaultgamemode <gamemode>
+[23Aug2025 02:27:12.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /difficulty [peaceful|easy|normal|hard]
+[23Aug2025 02:27:12.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /effect (clear|give)
+[23Aug2025 02:27:12.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /me <action>
+[23Aug2025 02:27:12.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /enchant <targets> <enchantment> [<level>]
+[23Aug2025 02:27:12.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /experience (add|set|query)
+[23Aug2025 02:27:12.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /xp -> experience
+[23Aug2025 02:27:12.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /fill <from> <to> <block> [replace|keep|outline|hollow|destroy]
+[23Aug2025 02:27:12.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /fillbiome <from> <to> <biome> [replace]
+[23Aug2025 02:27:12.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /forceload (add|remove|query)
+[23Aug2025 02:27:12.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /function <name>
+[23Aug2025 02:27:12.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /gamemode <gamemode> [<target>]
+[23Aug2025 02:27:12.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /gamerule (announceAdvancements|blockExplosionDropDecay|commandBlockOutput|commandModificationBlockLimit|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doVinesSpread|doWardenSpawning|doWeatherCycle|drowningDamage|fallDamage|fireDamage|forgiveDeadPlayers|freezeDamage|globalSoundEvents|keepInventory|lavaSourceConversion|logAdminCommands|maxCommandChainLength|maxEntityCramming|mobExplosionDropDecay|mobGriefing|naturalRegeneration|playersSleepingPercentage|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|snowAccumulationHeight|spawnRadius|spectatorsGenerateChunks|tntExplosionDropDecay|universalAnger|waterSourceConversion)
+[23Aug2025 02:27:12.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /give <targets> <item> [<count>]
+[23Aug2025 02:27:12.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /help [<command>]
+[23Aug2025 02:27:12.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /item (replace|modify)
+[23Aug2025 02:27:12.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /kick <targets> [<reason>]
+[23Aug2025 02:27:12.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /kill [<targets>]
+[23Aug2025 02:27:12.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /list [uuids]
+[23Aug2025 02:27:12.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /locate (structure|biome|poi)
+[23Aug2025 02:27:12.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /loot (replace|insert|give|spawn)
+[23Aug2025 02:27:12.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /msg <targets> <message>
+[23Aug2025 02:27:12.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tell -> msg
+[23Aug2025 02:27:12.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /w -> msg
+[23Aug2025 02:27:12.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /particle <name> [<pos>]
+[23Aug2025 02:27:12.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /place (feature|jigsaw|structure|template)
+[23Aug2025 02:27:12.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /playsound <sound> (master|music|record|weather|block|hostile|neutral|player|ambient|voice)
+[23Aug2025 02:27:12.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /reload
+[23Aug2025 02:27:12.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /recipe (give|take)
+[23Aug2025 02:27:12.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /return <value>
+[23Aug2025 02:27:12.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ride <target> (mount|dismount)
+[23Aug2025 02:27:12.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /say <message>
+[23Aug2025 02:27:12.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /schedule (function|clear)
+[23Aug2025 02:27:12.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /scoreboard (objectives|players)
+[23Aug2025 02:27:12.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /seed
+[23Aug2025 02:27:12.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /setblock <pos> <block> [destroy|keep|replace]
+[23Aug2025 02:27:12.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /spawnpoint [<targets>]
+[23Aug2025 02:27:12.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /setworldspawn [<pos>]
+[23Aug2025 02:27:12.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /spectate [<target>]
+[23Aug2025 02:27:12.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /spreadplayers <center> <spreadDistance> <maxRange> (<respectTeams>|under)
+[23Aug2025 02:27:12.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /stopsound <targets> [*|master|music|record|weather|block|hostile|neutral|player|ambient|voice]
+[23Aug2025 02:27:12.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /summon <entity> [<pos>]
+[23Aug2025 02:27:12.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tag <targets> (add|remove|list)
+[23Aug2025 02:27:12.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /team (list|add|remove|empty|join|leave|modify)
+[23Aug2025 02:27:12.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /teammsg <message>
+[23Aug2025 02:27:12.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tm -> teammsg
+[23Aug2025 02:27:12.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /teleport (<location>|<destination>|<targets>)
+[23Aug2025 02:27:12.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tp -> teleport
+[23Aug2025 02:27:12.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tellraw <targets> <message>
+[23Aug2025 02:27:12.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /time (set|add|query)
+[23Aug2025 02:27:12.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /title <targets> (clear|reset|title|subtitle|actionbar|times)
+[23Aug2025 02:27:12.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /trigger <objective> [add|set]
+[23Aug2025 02:27:12.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /weather (clear|rain|thunder)
+[23Aug2025 02:27:12.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /worldborder (add|set|center|damage|get|warning)
+[23Aug2025 02:27:12.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /jfr (start|stop)
+[23Aug2025 02:27:12.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ban-ip <target> [<reason>]
+[23Aug2025 02:27:12.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /banlist [ips|players]
+[23Aug2025 02:27:12.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ban <targets> [<reason>]
+[23Aug2025 02:27:12.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /deop <targets>
+[23Aug2025 02:27:12.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /op <targets>
+[23Aug2025 02:27:12.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /pardon <targets>
+[23Aug2025 02:27:12.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /pardon-ip <target>
+[23Aug2025 02:27:12.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /perf (start|stop)
+[23Aug2025 02:27:12.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /save-all [flush]
+[23Aug2025 02:27:12.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /save-off
+[23Aug2025 02:27:12.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /save-on
+[23Aug2025 02:27:12.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /setidletimeout <minutes>
+[23Aug2025 02:27:12.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /stop
+[23Aug2025 02:27:12.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /whitelist (on|off|list|add|remove|reload)
+[23Aug2025 02:27:12.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /the_boiled_one spawn_delay (set|get)
+[23Aug2025 02:27:12.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /knocker (debug|event)
+[23Aug2025 02:27:12.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /mimicer (fast_forward|get_target|get_timer)
+[23Aug2025 02:27:12.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /forge (tps|track|entity|generate|dimensions|mods|tags)
+[23Aug2025 02:27:12.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /config showfile <mod> <type>
+[23Aug2025 02:27:12.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tb (access|restore|remove|clear|unpack)
+[23Aug2025 02:27:12.623] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1480.68, y=69.94, z=-2598.15]]
+[23Aug2025 02:27:13.223] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1480.68, y=69.94, z=-2598.15]]
+[23Aug2025 02:27:14.423] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1480.68, y=69.94, z=-2598.15]]
+[23Aug2025 02:27:21.322] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['bakhu_sa'/131, l='ServerLevel[world]', x=-1486.70, y=72.00, z=-2591.60]]
+[23Aug2025 02:27:25.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bakhu_sa has made the advancement [We Need to Go Deeper]
+[23Aug2025 02:29:07.791] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Aug2025 02:29:07.796] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Aug2025 02:29:09.376] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/54975, l='ServerLevel[world]', x=-153.40, y=68.32, z=-338.74] died, message: 'Fletcher tried to swim in lava'
+[23Aug2025 02:34:07.791] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Aug2025 02:34:07.795] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
