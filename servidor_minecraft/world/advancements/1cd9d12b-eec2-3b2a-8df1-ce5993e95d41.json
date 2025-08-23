@@ -15,6 +15,7 @@
       "minecraft:wooded_badlands": "2025-08-08 17:21:32 +0000",
       "minecraft:bamboo_jungle": "2025-08-11 02:13:17 +0000",
       "minecraft:beach": "2025-08-11 02:42:23 +0000",
+      "minecraft:dark_forest": "2025-08-23 01:44:13 +0000",
       "minecraft:sparse_jungle": "2025-08-11 03:46:20 +0000",
       "minecraft:river": "2025-08-08 17:23:11 +0000",
       "minecraft:lukewarm_ocean": "2025-08-11 02:42:30 +0000",
@@ -2535,15 +2536,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_oak_slab": {
+  "minecraft:recipes/decorations/snow": {
     "criteria": {
-      "has_planks": "2025-08-23 01:22:15 +0000"
+      "has_snowball": "2025-08-23 01:04:56 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_oak_planks": {
+  "travelersbackpack:recipes/misc/snow": {
     "criteria": {
-      "has_log": "2025-08-23 01:22:57 +0000"
+      "has_snowball": "2025-08-23 01:04:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-08-23 01:04:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-08-23 01:22:15 +0000"
     },
     "done": true
   },
@@ -2565,27 +2578,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_oak_wood": {
-    "criteria": {
-      "has_log": "2025-08-23 01:22:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/snow": {
-    "criteria": {
-      "has_snowball": "2025-08-23 01:04:56 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2025-08-23 01:22:15 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/snow": {
-    "criteria": {
-      "has_snowball": "2025-08-23 01:04:56 +0000"
     },
     "done": true
   },
@@ -2607,15 +2602,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/snow_block": {
-    "criteria": {
-      "has_snowball": "2025-08-23 01:04:56 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/dark_oak_fence": {
     "criteria": {
       "has_planks": "2025-08-23 01:22:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-08-23 01:22:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-08-23 01:22:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-08-23 01:44:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2025-08-23 01:44:30 +0000"
     },
     "done": true
   },
