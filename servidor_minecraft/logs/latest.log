@@ -238,3 +238,5 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [23Aug2025 02:27:12.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tb (access|restore|remove|clear|unpack)
 [23Aug2025 02:27:25.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bakhu_sa has made the advancement [We Need to Go Deeper]
 [23Aug2025 02:29:09.376] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/54975, l='ServerLevel[world]', x=-153.40, y=68.32, z=-338.74] died, message: 'Fletcher tried to swim in lava'
+[23Aug2025 02:54:25.881] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bakhu_sa lost connection: Disconnected
+[23Aug2025 02:54:25.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bakhu_sa left the game
