@@ -133,3 +133,8 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [24Aug2025 02:36:16.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> duerme
 [24Aug2025 02:36:19.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> apura oeoeo
 [24Aug2025 02:36:43.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Jorgelson no longer a server operator
+[24Aug2025 02:48:03.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> trae ender pearl
+[24Aug2025 02:48:19.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> ta madre duerme que me siento observado
+[24Aug2025 02:49:00.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bakhu_sa tried to swim in lava
+[24Aug2025 02:49:00.884] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for bakhu_sa with unique ID travelersbackpack.wolf_24.08.2025-02.49.00.dat
+[24Aug2025 02:49:00.884] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -1496 Y: 36 Z: -2692
