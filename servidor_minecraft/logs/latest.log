@@ -115,3 +115,16 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [24Aug2025 02:15:46.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> en el de abajo
 [24Aug2025 02:16:09.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> haz yunke
 [24Aug2025 02:16:28.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> mmhuevo
+[24Aug2025 02:19:19.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> ya haz de estar lejos te iba a enseñar a entrar al portal del nether porque le puse para que no entren los aldeanos
+[24Aug2025 02:19:32.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> ni modo despues le vemos
+[24Aug2025 02:23:24.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> -1486 -2591
+[24Aug2025 02:23:55.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> -185 323
+[24Aug2025 02:24:49.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bakhu_sa burned to death
+[24Aug2025 02:24:49.887] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for bakhu_sa with unique ID travelersbackpack.wolf_24.08.2025-02.24.49.dat
+[24Aug2025 02:24:49.889] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -1636 Y: -40 Z: -3081
+[24Aug2025 02:24:58.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> ta madre juajaj
+[24Aug2025 02:25:04.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> este perunao
+[24Aug2025 02:25:10.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> tduerme
+[24Aug2025 02:25:14.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> estoy en ele nether
+[24Aug2025 02:25:40.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> -185 323
+[24Aug2025 02:26:13.051] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-168, y=121, z=-317} BlockPos{x=-186, y=121, z=-322}
