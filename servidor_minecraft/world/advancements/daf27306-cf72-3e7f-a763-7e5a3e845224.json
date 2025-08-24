@@ -106,6 +106,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-08-16 02:28:29 +0000",
       "minecraft:ghast": "2025-08-22 03:50:15 +0000",
+      "minecraft:magma_cube": "2025-08-24 02:30:01 +0000",
       "minecraft:spider": "2025-08-10 02:03:50 +0000",
       "minecraft:creeper": "2025-08-13 03:22:41 +0000",
       "minecraft:zombie": "2025-08-10 02:01:57 +0000",
@@ -2723,6 +2724,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-08-24 02:26:51 +0000",
       "minecraft:nether_wastes": "2025-08-22 03:46:18 +0000"
     },
     "done": false
