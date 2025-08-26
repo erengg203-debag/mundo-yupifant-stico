@@ -116,3 +116,13 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [26Aug2025 01:33:34.012] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@517abdcb[id=<null>,name=Jorgelson,properties={},legacy=false] (/127.236.237.174:48721) lost connection: Disconnected
 [26Aug2025 01:33:39.819] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jorgelson[/127.236.237.174:56419] logged in with entity id 37324 at (-1312.3626856059457, 74.0, -858.6966496048798)
 [26Aug2025 01:33:39.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson joined the game
+[26Aug2025 01:42:10.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson has made the advancement [The Parrots and the Bats]
+[26Aug2025 01:44:42.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> aaaa apura
+[26Aug2025 01:44:58.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> que quieres ctm
+[26Aug2025 01:45:07.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> pasa cords
+[26Aug2025 01:45:15.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> ando en el neder jsjs
+[26Aug2025 01:45:20.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> revisa what
+[26Aug2025 01:49:28.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> encontre fortaleza
+[26Aug2025 01:49:42.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> cords y manda al wh
+[26Aug2025 01:50:12.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bakhu_sa has made the advancement [A Terrible Fortress]
+[26Aug2025 01:54:25.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bakhu_sa has made the advancement [Who is Cutting Onions?]
