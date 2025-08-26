@@ -95,3 +95,19 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [26Aug2025 00:58:48.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bakhu_sa joined the game
 [26Aug2025 00:59:07.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> bueno no se que se hicieron los diamantes, pero ahí está reparación y dortuna en el de minerales
 [26Aug2025 01:05:48.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> trae diamante
+[26Aug2025 01:08:19.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> apura mrd
+[26Aug2025 01:12:05.265] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bakhu_sa lost connection: Disconnected
+[26Aug2025 01:12:05.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bakhu_sa left the game
+[26Aug2025 01:12:05.315] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[26Aug2025 01:12:19.925] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bakhu_sa[/127.115.12.219:34633] logged in with entity id 5281 at (-1486.446433154648, 72.0, -2590.5)
+[26Aug2025 01:12:19.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bakhu_sa joined the game
+[26Aug2025 01:13:17.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> me saco jsjs
+[26Aug2025 01:13:25.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> aaa no se pues deja ver que dice el log
+[26Aug2025 01:13:52.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> nah no dice nada mas que desconexión
+[26Aug2025 01:14:35.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> me la saco a buscar huevos de tortuga
+[26Aug2025 01:16:00.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> -1559.63 62.07 -2552.80
+[26Aug2025 01:19:10.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> dale que me kchan
+[26Aug2025 01:19:34.400] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Jorgelson) moved wrongly! 0.6889131546581666
+[26Aug2025 01:19:34.434] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Jorgelson) moved wrongly! 0.7031670210167249
+[26Aug2025 01:19:34.436] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Jorgelson) moved wrongly! 0.38380663628458933
+[26Aug2025 01:21:03.239] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2109, y=62, z=-1311} BlockPos{x=-2108, y=60, z=-1311}

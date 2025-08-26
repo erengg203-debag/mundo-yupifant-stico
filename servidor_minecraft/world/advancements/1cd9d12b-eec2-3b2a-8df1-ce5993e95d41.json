@@ -2695,6 +2695,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-08-26 01:14:34 +0000",
       "minecraft:nether_wastes": "2025-08-23 02:27:26 +0000"
     },
     "done": false
