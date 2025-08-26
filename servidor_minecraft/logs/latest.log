@@ -111,3 +111,8 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [26Aug2025 01:19:34.434] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Jorgelson) moved wrongly! 0.7031670210167249
 [26Aug2025 01:19:34.436] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Jorgelson) moved wrongly! 0.38380663628458933
 [26Aug2025 01:21:03.239] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2109, y=62, z=-1311} BlockPos{x=-2108, y=60, z=-1311}
+[26Aug2025 01:30:52.772] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jorgelson lost connection: Disconnected
+[26Aug2025 01:30:52.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson left the game
+[26Aug2025 01:33:34.012] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@517abdcb[id=<null>,name=Jorgelson,properties={},legacy=false] (/127.236.237.174:48721) lost connection: Disconnected
+[26Aug2025 01:33:39.819] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jorgelson[/127.236.237.174:56419] logged in with entity id 37324 at (-1312.3626856059457, 74.0, -858.6966496048798)
+[26Aug2025 01:33:39.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson joined the game
