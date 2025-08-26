@@ -88,3 +88,11 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [26Aug2025 00:27:20.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson joined the game
 [26Aug2025 00:27:23.208] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2990ms or 59 ticks behind
 [26Aug2025 00:30:14.343] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jorgelson moved too quickly! -2.3515312040210574,-2.3176000022888275,9.548228565604404
+[26Aug2025 00:35:21.818] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@27706397[id=<null>,name=bakhu_sa,properties={},legacy=false] (/127.21.46.173:47253) lost connection: Disconnected
+[26Aug2025 00:35:28.045] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bakhu_sa[/127.21.46.173:60977] logged in with entity id 2502 at (-1423.8832500407188, -40.0, -2612.823918731174)
+[26Aug2025 00:35:28.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bakhu_sa joined the game
+[26Aug2025 00:40:48.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> me agarró paralisis sajejfas
+[26Aug2025 00:41:05.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> este hdp no deja dormir
+[26Aug2025 00:41:18.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> sjjsjsjss peruano
+[26Aug2025 00:41:46.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> infinidad querías?
+[26Aug2025 00:42:24.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> confirma oeoeo
