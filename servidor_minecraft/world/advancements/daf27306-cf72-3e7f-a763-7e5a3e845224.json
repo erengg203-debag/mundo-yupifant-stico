@@ -2802,6 +2802,12 @@
     },
     "done": false
   },
+  "travelersbackpack:recipes/misc/enderman": {
+    "criteria": {
+      "has_ender_pearl": "2025-08-26 02:09:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2025-08-26 01:42:10 +0000"
