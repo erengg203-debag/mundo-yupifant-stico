@@ -1,16 +1,16 @@
-[26Aug2025 02:31:59.807] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[26Aug2025 02:31:59.811] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.16 by Ubuntu; OS Linux arch amd64 version 6.8.0-1030-azure
-[26Aug2025 02:32:00.043] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[26Aug2025 02:32:00.102] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/mundo-yupifant-stico/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
-[26Aug2025 02:32:00.349] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/mundo-yupifant-stico/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[26Aug2025 02:32:00.351] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/mundo-yupifant-stico/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[26Aug2025 02:32:00.352] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/mundo-yupifant-stico/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[26Aug2025 02:32:00.354] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/mundo-yupifant-stico/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[26Aug2025 02:32:00.477] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 1 dependencies adding them to mods collection
-[26Aug2025 02:32:01.854] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[26Aug2025 02:32:01.864] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[26Aug2025 02:32:01.904] [main/WARN] [mixin/]: Reference map 'mimicer.refmap.json' for themimic_er.mixins.json could not be read. If this is a development environment you can ignore this message
-[26Aug2025 02:32:02.295] [main/WARN] [net.minecraft.SystemReport/]: Failed retrieving info for group hardware
+[26Aug2025 03:07:58.666] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[26Aug2025 03:07:58.669] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.16 by Ubuntu; OS Linux arch amd64 version 6.8.0-1030-azure
+[26Aug2025 03:07:58.927] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[26Aug2025 03:07:58.986] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/mundo-yupifant-stico/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
+[26Aug2025 03:07:59.216] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/mundo-yupifant-stico/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[26Aug2025 03:07:59.217] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/mundo-yupifant-stico/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[26Aug2025 03:07:59.219] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/mundo-yupifant-stico/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[26Aug2025 03:07:59.220] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/mundo-yupifant-stico/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[26Aug2025 03:07:59.350] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 1 dependencies adding them to mods collection
+[26Aug2025 03:08:00.968] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[26Aug2025 03:08:00.977] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[26Aug2025 03:08:01.013] [main/WARN] [mixin/]: Reference map 'mimicer.refmap.json' for themimic_er.mixins.json could not be read. If this is a development environment you can ignore this message
+[26Aug2025 03:08:01.395] [main/WARN] [net.minecraft.SystemReport/]: Failed retrieving info for group hardware
 java.lang.NoClassDefFoundError: com/sun/jna/Platform
 	at oshi.SystemInfo.<clinit>(SystemInfo.java:60) ~[oshi-core-6.2.2.jar%2369!/:6.2.2]
 	at net.minecraft.SystemReport.m_143564_(SystemReport.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23113!/:?]
@@ -40,105 +40,60 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:137) ~[securejarhandler-2.1.10.jar:?]
 	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
 	... 22 more
-[26Aug2025 02:32:07.970] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[26Aug2025 02:32:07.973] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[26Aug2025 02:32:08.719] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[26Aug2025 02:32:08.744] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
-[26Aug2025 02:32:08.744] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
-[26Aug2025 02:32:08.746] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
-[26Aug2025 02:32:08.746] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
-[26Aug2025 02:32:09.097] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[26Aug2025 02:32:09.098] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
-[26Aug2025 02:32:09.136] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: AHEAD Current: 9.1.39 Target: null
-[26Aug2025 02:32:10.011] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[26Aug2025 02:32:10.884] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/mundo-yupifant-stico/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23113!/assets/.mcassetsroot' uses unexpected schema
-[26Aug2025 02:32:10.885] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/mundo-yupifant-stico/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23113!/data/.mcassetsroot' uses unexpected schema
-[26Aug2025 02:32:12.654] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
-[26Aug2025 02:32:12.829] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1408 advancements
-[26Aug2025 02:32:13.350] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[26Aug2025 02:32:13.351] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[26Aug2025 02:32:13.351] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[26Aug2025 02:32:13.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[26Aug2025 02:32:13.509] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[26Aug2025 02:32:13.554] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[26Aug2025 02:32:13.645] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[26Aug2025 02:32:13.645] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[26Aug2025 02:32:13.646] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[26Aug2025 02:32:13.646] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[26Aug2025 02:32:13.666] [Thread-0/INFO] [de.cadentem.themimic_er.Mimicer/]: Server configuration has been reloaded
-[26Aug2025 02:32:13.667] [Thread-0/INFO] [de.cadentem.themimic_er.Mimicer/]: Server configuration has been reloaded
-[26Aug2025 02:32:13.708] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[26Aug2025 02:32:16.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[26Aug2025 02:32:22.779] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[26Aug2025 02:32:22.781] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[26Aug2025 02:32:22.781] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[26Aug2025 02:32:22.782] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[26Aug2025 02:32:22.782] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[26Aug2025 02:32:22.783] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[26Aug2025 02:32:22.783] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[26Aug2025 02:32:22.784] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[26Aug2025 02:32:22.785] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[26Aug2025 02:32:22.785] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[26Aug2025 02:32:22.786] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[26Aug2025 02:32:22.786] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[26Aug2025 02:32:22.802] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[26Aug2025 02:32:23.301] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 22%
-[26Aug2025 02:32:23.801] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 85%
-[26Aug2025 02:32:23.913] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 7112 ms
-[26Aug2025 02:32:23.913] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (10.253s)! For help, type "help"
-[26Aug2025 02:32:23.934] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[26Aug2025 02:32:28.200] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jorgelson[/127.236.237.174:48889] logged in with entity id 15 at (-159.90534081236873, 118.0, -321.2294180865178)
-[26Aug2025 02:32:28.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson joined the game
-[26Aug2025 02:33:19.009] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bakhu_sa[/127.115.12.219:50363] logged in with entity id 239 at (-259.9694582697018, 82.0, -344.08563780307423)
-[26Aug2025 02:33:19.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bakhu_sa joined the game
-[26Aug2025 02:35:33.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> verás cerdo, si queremos comodida hayq ue arreglar la entrada en el neteher de otra forma para entrar a la grnaja de oro
-[26Aug2025 02:35:40.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> pero no se como ajsdfjas
-[26Aug2025 02:36:25.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> esta
-[26Aug2025 02:36:35.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> mne hiciste oerder las enderperl que habia conseguido ajja
-[26Aug2025 02:36:35.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> -138 -320
-[26Aug2025 02:36:44.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> yo?
-[26Aug2025 02:36:49.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> estás mal carapinga
-[26Aug2025 02:36:54.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> deja arreglo esta webada
-[26Aug2025 02:38:03.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> -122 -320
-[26Aug2025 02:38:25.749] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-186, y=120, z=-329} BlockPos{x=-186, y=119, z=-336}
-[26Aug2025 02:40:36.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> ve aqui
-[26Aug2025 02:40:43.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> ese es el camino
-[26Aug2025 02:40:58.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> esto va a ser granja no romperas
-[26Aug2025 02:41:20.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> por donde salgo pe
-[26Aug2025 02:41:27.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> sigue por el camino
-[26Aug2025 02:41:30.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> que te dije
-[26Aug2025 02:41:35.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> ay ya lo ilumino
-[26Aug2025 02:42:51.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> oe esas flechas amarrillas para que son??
-[26Aug2025 02:42:59.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> que felchas jasj
-[26Aug2025 02:43:15.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> aaaa dan efecto de iluminación al que le pegues
-[26Aug2025 02:43:23.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> creo que servian para otra cosa mas pero no me acuerdo
-[26Aug2025 02:45:59.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> 656 623
-[26Aug2025 02:46:07.702] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1507, y=64, z=-2579} BlockPos{x=-1508, y=62, z=-2580}
-[26Aug2025 02:46:07.755] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1507, y=64, z=-2579} BlockPos{x=-1508, y=62, z=-2580}
-[26Aug2025 02:46:08.551] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1511, y=64, z=-2579} BlockPos{x=-1512, y=62, z=-2579}
-[26Aug2025 02:46:10.651] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1516, y=64, z=-2574} BlockPos{x=-1517, y=62, z=-2574}
-[26Aug2025 02:46:49.252] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1494, y=64, z=-2572} BlockPos{x=-1495, y=62, z=-2570}
-[26Aug2025 02:46:49.304] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1494, y=64, z=-2572} BlockPos{x=-1495, y=62, z=-2570}
-[26Aug2025 02:46:49.502] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1494, y=64, z=-2571} BlockPos{x=-1494, y=62, z=-2570}
-[26Aug2025 02:47:03.453] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1501, y=64, z=-2567} BlockPos{x=-1502, y=62, z=-2567}
-[26Aug2025 02:47:03.501] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1501, y=64, z=-2567} BlockPos{x=-1502, y=62, z=-2567}
-[26Aug2025 02:47:03.553] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1502, y=64, z=-2567} BlockPos{x=-1502, y=62, z=-2567}
-[26Aug2025 02:47:18.099] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1497, y=64, z=-2572} BlockPos{x=-1498, y=62, z=-2572}
-[26Aug2025 02:47:18.151] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1497, y=64, z=-2572} BlockPos{x=-1498, y=62, z=-2572}
-[26Aug2025 02:47:18.206] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1497, y=64, z=-2572} BlockPos{x=-1498, y=62, z=-2572}
-[26Aug2025 02:47:18.298] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1498, y=64, z=-2572} BlockPos{x=-1499, y=62, z=-2572}
-[26Aug2025 02:47:18.650] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1500, y=64, z=-2572} BlockPos{x=-1501, y=62, z=-2572}
-[26Aug2025 02:47:18.702] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1500, y=64, z=-2572} BlockPos{x=-1501, y=62, z=-2572}
-[26Aug2025 02:48:10.299] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1497, y=64, z=-2574} BlockPos{x=-1497, y=62, z=-2574}
-[26Aug2025 02:48:10.348] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1497, y=64, z=-2574} BlockPos{x=-1497, y=62, z=-2574}
-[26Aug2025 02:48:10.400] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1497, y=64, z=-2574} BlockPos{x=-1497, y=62, z=-2574}
-[26Aug2025 02:48:10.448] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1498, y=64, z=-2574} BlockPos{x=-1497, y=62, z=-2574}
-[26Aug2025 02:48:10.500] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1498, y=64, z=-2574} BlockPos{x=-1497, y=62, z=-2574}
-[26Aug2025 02:48:10.597] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1499, y=64, z=-2574} BlockPos{x=-1500, y=62, z=-2574}
-[26Aug2025 02:49:09.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> esta
-[26Aug2025 02:50:46.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> -181 -320
-[26Aug2025 02:51:09.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> -1448 -2560
-[26Aug2025 02:56:38.102] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1449, y=66, z=-2560} BlockPos{x=-1449, y=66, z=-2561}
-[26Aug2025 02:57:38.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> -1448 -2560 PORT OW facing east
-[26Aug2025 03:01:41.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> quieres mas ender?
-[26Aug2025 03:01:56.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> por ahora no
+[26Aug2025 03:08:06.811] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[26Aug2025 03:08:06.814] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[26Aug2025 03:08:07.615] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[26Aug2025 03:08:07.637] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
+[26Aug2025 03:08:07.638] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
+[26Aug2025 03:08:07.640] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
+[26Aug2025 03:08:07.640] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
+[26Aug2025 03:08:08.156] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[26Aug2025 03:08:08.157] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[26Aug2025 03:08:08.197] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: AHEAD Current: 9.1.39 Target: null
+[26Aug2025 03:08:09.072] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[26Aug2025 03:08:10.007] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/mundo-yupifant-stico/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23113!/assets/.mcassetsroot' uses unexpected schema
+[26Aug2025 03:08:10.008] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/mundo-yupifant-stico/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23113!/data/.mcassetsroot' uses unexpected schema
+[26Aug2025 03:08:12.042] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
+[26Aug2025 03:08:12.188] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1408 advancements
+[26Aug2025 03:08:12.796] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[26Aug2025 03:08:12.797] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[26Aug2025 03:08:12.797] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[26Aug2025 03:08:12.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[26Aug2025 03:08:12.901] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[26Aug2025 03:08:12.927] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[26Aug2025 03:08:13.020] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[26Aug2025 03:08:13.021] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[26Aug2025 03:08:13.021] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[26Aug2025 03:08:13.021] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[26Aug2025 03:08:13.044] [Thread-0/INFO] [de.cadentem.themimic_er.Mimicer/]: Server configuration has been reloaded
+[26Aug2025 03:08:13.047] [Thread-0/INFO] [de.cadentem.themimic_er.Mimicer/]: Server configuration has been reloaded
+[26Aug2025 03:08:13.086] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[26Aug2025 03:08:15.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[26Aug2025 03:08:17.567] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[26Aug2025 03:08:20.009] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Aug2025 03:08:20.024] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Aug2025 03:08:20.043] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Aug2025 03:08:20.062] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Aug2025 03:08:20.089] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Aug2025 03:08:20.124] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Aug2025 03:08:20.135] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Aug2025 03:08:20.161] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Aug2025 03:08:20.172] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Aug2025 03:08:20.392] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Aug2025 03:08:20.803] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[26Aug2025 03:08:20.887] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Aug2025 03:08:21.386] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 3%
+[26Aug2025 03:08:21.883] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 72%
+[26Aug2025 03:08:22.110] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 6227 ms
+[26Aug2025 03:08:22.111] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (9.074s)! For help, type "help"
+[26Aug2025 03:08:22.133] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[26Aug2025 03:08:39.541] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5feaa27c[id=<null>,name=Jorgelson,properties={},legacy=false] (/127.236.237.174:45807) lost connection: Disconnected
+[26Aug2025 03:08:45.829] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jorgelson[/127.236.237.174:60953] logged in with entity id 15 at (-160.23467296585588, 118.0, -315.13042837917595)
+[26Aug2025 03:08:45.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson joined the game
+[26Aug2025 03:10:24.941] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4e0bd856[id=<null>,name=bakhu_sa,properties={},legacy=false] (/127.115.12.219:44931) lost connection: Disconnected
+[26Aug2025 03:10:52.235] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-149, y=119, z=-312}
+[26Aug2025 03:10:52.283] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-149, y=119, z=-312}
+[26Aug2025 03:11:06.542] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@14ddbc13[id=<null>,name=bakhu_sa,properties={},legacy=false] (/127.115.12.219:42127) lost connection: Disconnected
+[26Aug2025 03:11:16.314] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bakhu_sa[/127.115.12.219:33517] logged in with entity id 1255 at (-1485.8261135436785, 72.0, -2590.5)
+[26Aug2025 03:11:16.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bakhu_sa joined the game
+[26Aug2025 03:11:20.570] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Pig['Pig'/1529, l='ServerLevel[world]', x=-1404.57, y=70.00, z=-2753.44]
