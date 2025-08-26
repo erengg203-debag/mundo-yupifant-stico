@@ -96,3 +96,41 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [26Aug2025 00:41:18.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> sjjsjsjss peruano
 [26Aug2025 00:41:46.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> infinidad querías?
 [26Aug2025 00:42:24.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> confirma oeoeo
+[26Aug2025 00:45:17.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> dame un pico cerda
+[26Aug2025 00:45:28.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> a cierto vos perdiste el pico
+[26Aug2025 00:45:44.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> y para que ocupas?
+[26Aug2025 00:45:55.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> para picar pues mmhvs los mineralos
+[26Aug2025 00:46:05.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> aa entonces puede esperar
+[26Aug2025 00:46:33.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> es que solo hay 12 esmeraldas
+[26Aug2025 00:47:43.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> y ahora solo hay 3
+[26Aug2025 00:50:18.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> aguanta mrd
+[26Aug2025 00:50:21.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> te estoy cosnigueindo
+[26Aug2025 00:51:28.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> a ver toma
+[26Aug2025 00:51:39.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> ya te hiciste el pico?
+[26Aug2025 00:51:49.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> no sjs
+[26Aug2025 00:51:53.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> no hay diamantes que chucha?
+[26Aug2025 00:52:09.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> y los diamantes cerdo?
+[26Aug2025 00:52:43.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bakhu_sa was boiled
+[26Aug2025 00:52:43.640] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for bakhu_sa with unique ID travelersbackpack.wolf_26.08.2025-00.52.43.dat
+[26Aug2025 00:52:43.642] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -1470 Y: 65 Z: -2598
+[26Aug2025 00:52:50.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> si eres peruano
+[26Aug2025 00:53:00.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> oe los diamantes?
+[26Aug2025 00:53:19.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> oe reinicia server jsjs
+[26Aug2025 00:53:24.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> me va mas lagueado causa
+[26Aug2025 00:53:41.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> tamadre a ver
+[26Aug2025 00:54:04.579] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jorgelson lost connection: Disconnected
+[26Aug2025 00:54:04.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson left the game
+[26Aug2025 00:54:04.588] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bakhu_sa lost connection: Disconnected
+[26Aug2025 00:54:04.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bakhu_sa left the game
+[26Aug2025 00:54:04.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[26Aug2025 00:54:04.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[26Aug2025 00:54:04.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[26Aug2025 00:54:04.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[26Aug2025 00:54:05.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[26Aug2025 00:54:05.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[26Aug2025 00:54:05.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/doctor_nowhere_mod:parallel_universe
+[26Aug2025 00:54:05.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[26Aug2025 00:54:05.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[26Aug2025 00:54:05.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[26Aug2025 00:54:05.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (parallel_universe): All chunks are saved
+[26Aug2025 00:54:05.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
