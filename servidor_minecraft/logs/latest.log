@@ -138,3 +138,7 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [26Aug2025 02:49:09.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> esta
 [26Aug2025 02:50:46.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> -181 -320
 [26Aug2025 02:51:09.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> -1448 -2560
+[26Aug2025 02:56:38.102] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1449, y=66, z=-2560} BlockPos{x=-1449, y=66, z=-2561}
+[26Aug2025 02:57:38.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> -1448 -2560 PORT OW facing east
+[26Aug2025 03:01:41.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> quieres mas ender?
+[26Aug2025 03:01:56.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> por ahora no
