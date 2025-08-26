@@ -154,3 +154,8 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [26Aug2025 02:15:49.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> toca bajar a la mina nomas
 [26Aug2025 02:15:52.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bakhu_sa> poe cl te lainco sjjs
 [26Aug2025 02:15:59.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> calla mrd
+[26Aug2025 02:23:06.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> funciona jasjasjsa
+[26Aug2025 02:23:08.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jorgelson> me la pelas
+[26Aug2025 02:24:18.422] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-180, y=117, z=-321} BlockPos{x=-180, y=119, z=-343}
+[26Aug2025 02:27:30.414] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jorgelson lost connection: Timed out
+[26Aug2025 02:27:30.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgelson left the game
